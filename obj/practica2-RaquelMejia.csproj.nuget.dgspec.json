@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isaí Meléndez\\Desktop\\Repositorio_Practicas\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj": {}
+    "C:\\Users\\consu\\OneDrive\\Escritorio\\Repositorio_Practicas_PROGRAMACION_ESTRUCTURADA\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isaí Meléndez\\Desktop\\Repositorio_Practicas\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj": {
+    "C:\\Users\\consu\\OneDrive\\Escritorio\\Repositorio_Practicas_PROGRAMACION_ESTRUCTURADA\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isaí Meléndez\\Desktop\\Repositorio_Practicas\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj",
+        "projectUniqueName": "C:\\Users\\consu\\OneDrive\\Escritorio\\Repositorio_Practicas_PROGRAMACION_ESTRUCTURADA\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj",
         "projectName": "practica2-RaquelMejia",
-        "projectPath": "C:\\Users\\Isaí Meléndez\\Desktop\\Repositorio_Practicas\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj",
-        "packagesPath": "C:\\Users\\Isaí Meléndez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isaí Meléndez\\Desktop\\Repositorio_Practicas\\practica2-RaquelMejia\\obj\\",
+        "projectPath": "C:\\Users\\consu\\OneDrive\\Escritorio\\Repositorio_Practicas_PROGRAMACION_ESTRUCTURADA\\practica2-RaquelMejia\\practica2-RaquelMejia.csproj",
+        "packagesPath": "C:\\Users\\consu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\consu\\OneDrive\\Escritorio\\Repositorio_Practicas_PROGRAMACION_ESTRUCTURADA\\practica2-RaquelMejia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Isaí Meléndez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\consu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
